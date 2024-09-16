@@ -1,6 +1,6 @@
 # CN-FR_Math_Notes
 
-This note repository records the course notes of the China-French Mathematics Class at the University of Science and Technology of China (USTC).
+This note repository records the course notes of the China-France Mathematics Talents Class ([CFMTC](https://cfmath.ustc.edu.cn)) at the University of Science and Technology of China ([USTC](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China)).
 
 ## 1ère Année
 
